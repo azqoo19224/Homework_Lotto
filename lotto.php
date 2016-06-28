@@ -6,7 +6,7 @@
     </head>
     <body>
         <form method="post">
-            輸入你下注的組數:
+            請輸入你需要的明牌組數:
             <input type="number" name="num" value = "1"/>
              <input type="submit" name="btnOK" value = "OK"/>
              
@@ -43,7 +43,7 @@ function Litt($x){
         
     for($z =1 ; $z <=$a ;$z++){
  
-        echo "你的第".$z."組樂透號碼為:<br>";
+        echo "神預測你的第".$z."組中獎號碼為:<br>";
       
        
                      
