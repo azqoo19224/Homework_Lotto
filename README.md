@@ -1,1 +1,1 @@
-# Lotto-homework
+# Lotto-HomeWork
