@@ -1,2 +1,2 @@
 # Lotto-HomeWork
-樂透作業
+報明牌 作業
